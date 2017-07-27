@@ -19,7 +19,7 @@ notice：Mac 自带的终端是不支持lrzsz的，需要使用iterm2，并做�
 	ssh relay.xiaomi.com
 	// 输入shell进入bash
 	shell
-	// 进行hd登录 密码找 @海洋 @文浩
+	// 进行hd登录 密码找 @海洋 或 @文浩
 	ssh work@c3-hadoop-staging-cloud01.bj
 	// 项目path
 	cd /home/work/cloud-manager/paas-ui
@@ -41,7 +41,7 @@ https://cloud-platform.d.xiaomi.net/#/services
 ### 二、连接机器
 	// 连接通道机
 	ssh relay.xiaomi.com
-	// 输入主机名，回车即可登录  有两台主机。 权限开通找 @刘亚运
+	// 输入主机名，回车即可登录  有两台主机。 权限开通须通知@海洋 找@刘亚运 开通
 	c3-hadoop-cloud01.bj
 	c3-hadoop-cloud02.bj
 	// 项目path
